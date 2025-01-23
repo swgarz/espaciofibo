@@ -325,6 +325,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.5rem 0;
+		text-align:justify ;
 	}
 
 		body.is-ie p {
